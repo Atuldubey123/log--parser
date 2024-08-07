@@ -1,0 +1,9 @@
+.classpath
+.project
+.settings/
+ac_test_output/
+target/
+test-output/
+.DS_Store
+log_parser_output/
+.idea/
